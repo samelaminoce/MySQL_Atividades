@@ -1,0 +1,1 @@
+UPDATE colaboradores SET salario = 2800 WHERE id = 2;
