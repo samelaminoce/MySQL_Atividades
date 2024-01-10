@@ -1,0 +1,1 @@
+select * from tb_produtos where preco between 5.00 and 60.00;

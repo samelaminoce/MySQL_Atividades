@@ -1,0 +1,1 @@
+select nome,preco,estoque,categoria_id from tb_produtos inner join tb_categorias on tb_categorias.id = tb_produtos.categoria_id where categoria_id=4;
